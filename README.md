@@ -73,3 +73,4 @@ I am passionate about **building scalable data pipelines and applying Big Data a
  [srajesh2712@gmail.com](mailto:srajesh2712@gmail.com)  | [rajeshs@outlook.de](mailto:rajeshs@outlook.de)
 
 📖 **Read my blogs:** [srajesh84.blogspot.com](https://srajesh84.blogspot.com/)  
+https://www.codewars.com/users/enstenr/badges/small
